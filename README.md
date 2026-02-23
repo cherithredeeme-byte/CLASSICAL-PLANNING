@@ -1,7 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
 # Algorithm or Steps Involved:
 <h3>Name:   Cherith Redeeme C                    </h3>
-<h3>Register Number:        212224250004        </h3>
+<h3>Register Number:   212224250004        </h3>
 <H3>Aim:</H3>
 <ol>
   <li>Define the initial state</li>
